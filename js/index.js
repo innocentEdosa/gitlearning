@@ -1,0 +1,1 @@
+alert('What a wonderful world')
